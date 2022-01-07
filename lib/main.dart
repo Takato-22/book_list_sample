@@ -22,7 +22,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('本一覧'),
+        title: const Text('本一覧aaa'),
       ),
       body: const Center(
         child: Text(
